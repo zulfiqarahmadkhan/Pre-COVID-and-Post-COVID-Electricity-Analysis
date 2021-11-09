@@ -10,5 +10,5 @@ Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumpt
   keras_self_attention,
   matplotlib. <br />
 - pip install -r requirements.txt
-  # Train
-  python main.py
+# Train
+- python main.py
