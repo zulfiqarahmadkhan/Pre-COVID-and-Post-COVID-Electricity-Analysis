@@ -11,7 +11,7 @@ Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumpt
   matplotlib. <br />
 - pip install -r requirements.txt
 # Usage
-- model is in model.py
+- CNN-GRU with self-attention model is in model.py
 - run python main.py to train the model
 - losses.py calculate MSE, RMSE, and MAPE
 - loadDataset.py load and preprocess the data
