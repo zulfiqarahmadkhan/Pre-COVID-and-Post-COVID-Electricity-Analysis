@@ -1,4 +1,4 @@
-# Pre-COVID-and-Post-COVID-Electricity-Analysis
+# Pre-COVID-and-Post-COVID-Electricity-Consumption-Analysis
 Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumption analysis  
 # Getting Started
 #Prerequisites
