@@ -2,13 +2,13 @@
 Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumption analysis
 # Getting Started
 ## Prerequisites
-  pandas,
+  - pandas,
   sklearn,
   csv,
   keras,
   tensorflow,
   keras_self_attention,
   matplotlib. <br />
-pip install -r requirements.txt
+- pip install -r requirements.txt
   # Train
   python main.py
