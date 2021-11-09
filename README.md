@@ -18,5 +18,7 @@ Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumpt
 - plotdata.py plot the actual and predicted values 
 - splitDataset.py select input features and labels for the model 
 
+
+
 ## Reference:
 Modelling Electricity Consumption During the COVID19 Pandemic: Datasets, Models, Results and a Research Agenda
