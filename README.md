@@ -1,5 +1,5 @@
 # Pre-COVID-and-Post-COVID-Electricity-Consumption-Analysis
-Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumption analysis  
+Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumption analysis
 # Getting Started
 #Prerequisites
   pandas;
@@ -9,3 +9,5 @@ Implementation of CNN-GRU with Self-Attention-Machenism for electricity consumpt
   tensorflow;
   keras_self_attention;
   matplotlib;
+  # Train
+  python main.py
